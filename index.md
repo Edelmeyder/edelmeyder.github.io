@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Edelmeyder
+## About me:
 
-You can use the [editor on GitHub](https://github.com/Edelmeyder/edelmeyder.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Computer Engineering student on the Universidad Nacional de La Plata. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On my repositories I upload and manage my personal projects as well as my college asignmets, some of them are individual, some are group projects.
 
 ### Markdown
 
